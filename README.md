@@ -1,4 +1,4 @@
-# ABFM---Axial-Bubble-Formation-Model
+# ABFM_-_Axial-Bubble-Formation-Model
 
 - Model for representing the air bubble formation process in an axially symmetrical flow above a nozzle 
 - The ABFM has been orginally developed to determine the bubble size distribution of bubble curtains produced by a nozzle hose.
