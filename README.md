@@ -5,9 +5,8 @@
 - The ABFM bases on Bohne et al (2020). When you use the model, please cite this reference!
 - Compatible with GNU Octave and Matlab
 
-BUGFIX
-The functions and scripts sometimes use special characters in comments. This can cause problems with Octave if UTF8 is used. Use ISO-8859-1 instead for example.
-
 Literature
 Tobias Bohne, Tanja Grießmann, Raimund Rolfes, 2020. Development of and efficient buoyant jet integral model of a bubble plume coupled with a population dynamics model for bubble breakup and coalescence to predict the transmission loss of a bubble curtain. International Journal of Multiphase Flow 132, 103436. doi: 10.1016/j.ijmultiphaseflow.2020.103436
 
+BUGFIX
+The functions and scripts sometimes use special characters in comments. This can cause problems with Octave if UTF8 is used. Use ISO-8859-1 instead for example.
